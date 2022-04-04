@@ -1,0 +1,7 @@
+2022-04-04 11:06:54,450::com.microsoft.log.Clint.main(Clint.java:11)::warn..
+ 2022-04-04 11:06:54,453::com.microsoft.log.Clint.main(Clint.java:12)::error..
+ 2022-04-04 11:06:54,453::com.microsoft.log.Clint.main(Clint.java:13)::fatal..
+ 2022-04-04 11:07:46,704::com.microsoft.log.Clint.main(Clint.java:11)::warn..
+ 2022-04-04 11:07:46,708::com.microsoft.log.Clint.main(Clint.java:12)::error..
+ 2022-04-04 11:07:46,708::com.microsoft.log.Clint.main(Clint.java:13)::fatal..
+ 
